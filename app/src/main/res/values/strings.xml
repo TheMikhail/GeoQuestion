@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Geo</string>
+    <string name="question_Moscow">Москва столица России?</string>
+    <string name="question_Australia">Канберра столица Австралии?</string>
+    <string name="question_oceans">Тихий окена больше чем Атлантический?</string>
+    <string name="question_Africa">Река Нил начинается в Египте?</string>
+    <string name="question_Americas">Амазонка самая длинная река Америки?</string>
+    <string name="question_Asia">Байкал самое большое и глубокое пресноводное озеро в мире?</string>
+    <string name="true_button">Да</string>
+    <string name="false_button">Нет</string>
+    <string name="next_button">Следующий вопрос</string>
+    <string name="correct_toast">Верно!</string>
+    <string name="incorrect_toast">Неверно!</string>
+</resources>
